@@ -1,0 +1,6 @@
+Tambahan kode #[\AllowDynamicProperties]
+-core/URI.php
+-core/Router.php
+-core/Controller.php
+-core/Loader.php
+-database/DB_driver.php
